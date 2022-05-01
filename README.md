@@ -14,19 +14,19 @@ Week 19 Challenge, creating an application that allows customers to check a data
 
 ### Sample of the User Interface with a completed transaction:
 
-<img src="images/app_ux.png" width="500" height="250">
+<img src="Images/app_ux.png" width="500" height="250">
 
 ### Ganache sample accounts:
 
-<img src="images/ganache_accounts.png" width="500" height="250">
+<img src="Images/ganache_accounts.png" width="500" height="250">
 
 ### Ganache sample transactions:
 
-<img src="images/ganache_txns.png" width="500" height="250">
+<img src="Images/ganache_txns.png" width="500" height="250">
 
 ### Ganache sample transaction details:
 
-<img src="images/ganache_transaction_details.png" width="500" height="250">
+<img src="Images/ganache_transaction_details.png" width="500" height="250">
 
 ## Contributors
 
